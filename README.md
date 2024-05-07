@@ -4,7 +4,7 @@ This repository contains the smart contracts source code for Chi Protocol. This 
 
 ## What is Chi Protocol?
 
-Chi is an Ethereum-based protocol issuing a decentralized and capital-efficient stablecoin, known as USC, designed to bring stability, scalability and greater economic incentives to the world of decentralized finance. USC is the first stablecoin issued by Chi Protocol. LSTs are used as collateral to back it, and it relies on a dual stability mechanism to maintain the price at $1.
+Chi is an Ethereum-based protocol issuing a decentralized and capital-efficient stablecoin, known as USC, designed to bring stability, scalability and sustainable economic incentives to the world of decentralized finance. USC is the first stablecoin issued by Chi Protocol. LSTs are used as collateral to back it, and it relies on a dual stability mechanism to maintain the price at $1.
 
 ## Documentation
 
